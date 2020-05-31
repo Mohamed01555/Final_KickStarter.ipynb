@@ -5,3 +5,5 @@
 * main_category can be ['Publishing', 'Film & Video', 'Music', 'Food', 'Design', 'Crafts',
        'Games', 'Comics', 'Fashion', 'Theater', 'Art', 'Photography',
        'Technology', 'Dance', 'Journalism']
+       
+* Bank marketting and heart desease have their own repositories.
